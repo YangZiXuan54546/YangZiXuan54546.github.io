@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>YangEast's Blog</title><link>https://YangZiXuan54546.github.io</link><description>不会做饭的程序员，不是一名Gooder</description><copyright>YangEast's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://YangZiXuan54546.github.io</link></image><lastBuildDate>Sat, 19 Apr 2025 07:29:17 +0000</lastBuildDate><managingEditor>YangEast's Blog</managingEditor><ttl>60</ttl><webMaster>YangEast's Blog</webMaster><item><title>加密程序</title><link>https://YangZiXuan54546.github.io/post/jia-mi-cheng-xu.html</link><description># ***[Toy] [C]*** **加密程序** 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>YangEast's Blog</title><link>https://YangZiXuan54546.github.io</link><description>不会做饭的程序员，不是一名Gooder</description><copyright>YangEast's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://YangZiXuan54546.github.io</link></image><lastBuildDate>Sat, 19 Apr 2025 07:57:24 +0000</lastBuildDate><managingEditor>YangEast's Blog</managingEditor><ttl>60</ttl><webMaster>YangEast's Blog</webMaster><item><title>睡觉睡到大笑醒</title><link>https://YangZiXuan54546.github.io/post/shui-jue-shui-dao-da-xiao-xing.html</link><description>_**# 起因 #**_
+
+__记得很久之前我看过一位大佬的博客，里面就有一篇文章，叫做[睡觉睡到大笑醒](http://zzp.me/2008-03-29/wake-up-with-laughing/).我看了这篇文章也感到很快乐，幻想自己也能有哪一天能够睡觉时很欢乐地带上一份美好的记忆笑醒😀当然我知道自己不知道要到什么时候才能有这样一份经历，于是这件事就被我抛到了脑后，几乎再也没想起过了，但是在4月3日，我真的遇到了这件事，此时正是考试的第二天，我在半夜凌晨四点笑醒了....不知道到底该高兴还是无奈😂__
+
+_**# 内容 #**_
+
+__梦的内容主要就是我的一个小学同学(以下简写为WXW)与我现在的初中同学(以下简写为JYM)谈话,大概是WXW的成绩没有JYM考的好，然而WXW却'金句'频出，把周围人逗得哈哈大笑，我被逗得笑醒了(甚至直到我醒来时我还在笑😄)__
+
+_**# 结局 #**_
+
+__呃...不知道这是算HE还是BE，反正最后醒了之后半天没再睡着，就又从被窝里爬到客厅里待了一会，然后更睡不着了...__
+
+**~希望我以后也能像现在这样带着欢乐笑醒吧~**。</description><guid isPermaLink="true">https://YangZiXuan54546.github.io/post/shui-jue-shui-dao-da-xiao-xing.html</guid><pubDate>Sat, 19 Apr 2025 07:57:00 +0000</pubDate></item><item><title>加密程序</title><link>https://YangZiXuan54546.github.io/post/jia-mi-cheng-xu.html</link><description># ***[Toy] [C]*** **加密程序** 
 # 原因 #
 &gt; **其实本身没有什么特别的原因，只是想写一个软件练练手罢了**
 
